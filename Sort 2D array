@@ -1,0 +1,1 @@
+Arrays.sort(properties, (a,b) -> Integer.compare(a[0], b[0]));
